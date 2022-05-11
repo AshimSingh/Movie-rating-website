@@ -99,4 +99,22 @@ body{
 .movie-box:hover .overview{
     transform: translate(0%);
 }
-
+.error404{
+    width: 50%;
+    height: 10%;
+    margin-top: 2%;
+    margin-left:4%;
+}
+.error404 >img{
+    height: 30%;
+    width: 100%;
+}
+.goback{
+    height: 50px;
+    width: 200px;
+    background-color: #0A7BF3;
+    color: #34495E;
+    border: none;
+    margin-left: 35%;
+    z-index: 10;
+}
